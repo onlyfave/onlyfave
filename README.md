@@ -27,6 +27,10 @@ My journey in the tech world has been all about curiosity and a love for learnin
 - **Bash**
 - **JavaScript**
 
+## ✍️ Writing and Contributions I love to write about technology, share tutorials, and document my projects. Check out my blog and articles: 
+- **Dev.to**: [https://dev.to/onlyfave]
+- **Medium**: [https://medium.com/@onyenekeflavour] 
+
   
 ## 💡 Open to Learning and Collaboration 
 I'm always eager to learn new technologies and collaborate on exciting projects. If you're interested in working together or have any questions, feel free to
