@@ -1,12 +1,12 @@
 ## Hi there 👋
 👩‍💻 Onyeneke Favour - Cloud and DevOps Engineer
 
-Hello! I'm Onyeneke Favour, a passionate Cloud and DevOps Engineer with a love for technology and a knack for writing.
+Hello! I'm Onyeneke Favour, a passionate Cloud and DevOps Engineer with a love for technology and a zeal for writing.
 I'm dedicated to continuous learning, open to collaboration, and eager to share my knowledge and experiences with the tech community.
 
 ## 🌟 About Me
-I'm an enthusiastic tech professional who thrives on solving complex problems and driving innovation. 
-My journey in the tech world has been fueled by my curiosity and passion for learning. I enjoy writing about my experiences and sharing insights to help others on their tech journeys. 
+I’m a tech enthusiast who really enjoys solving tough problems and creating new ideas.
+My journey in the tech world has been all about curiosity and a love for learning. I like to share my experiences and insights to help others navigate their own paths in tech.
 - **Pronouns**: She/Her 
 - **Location**: Tech Cove
 - **Email**: onyenekeflavour@gmail.com
