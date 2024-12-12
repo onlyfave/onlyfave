@@ -6,10 +6,29 @@ I'm dedicated to continuous learning, open to collaboration, and eager to share 
 ## 🌟 About Me
 I'm an enthusiastic tech professional who thrives on solving complex problems and driving innovation. 
 My journey in the tech world has been fueled by my curiosity and passion for learning. I enjoy writing about my experiences and sharing insights to help others on their tech journeys. 
-- **Pronouns**: She/Her -
+- **Pronouns**: She/Her 
 - **Location**: Tech Cove
 - **Email**: onyenekeflavour@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/favour-onyeneke-2b2881297/
+
+## 🚀 Skills and Expertise ### Cloud Technologies 
+- **AWS**: EC2, S3, RDS, Lambda
+- **Azure**: Virtual Machines, Blob Storage, Azure Functions
+- **Google Cloud**: Compute Engine, Cloud Storage, Cloud Functions
+- 
+### DevOps Tools
+- **CI/CD**: Jenkins, GitHub Actions, CircleCI
+- **Containerization**: Docker, Kubernetes
+- **Infrastructure as Code**: Terraform, Ansible
+- **Monitoring**: Prometheus, Grafana, ELK Stack
+
+ ### Programming Languages 
+- **Bash**
+- **JavaScript**
+
+  
+## 💡 Open to Learning and Collaboration 
+I'm always eager to learn new technologies and collaborate on exciting projects. If you're interested in working together or have any questions, feel free to
 
 
 ## 🌸 A Sweet Soul
